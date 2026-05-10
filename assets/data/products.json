@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": 1,
+      "name": "iPhone 15 Pro",
+      "tagline": "Titanium. So strong. So light. So Pro.",
+      "description": "The iPhone 15 Pro is the first iPhone to feature an aerospace-grade titanium design, making it lighter and more durable than ever before. It is powered by the groundbreaking A17 Pro chip.",
+      "price": 999,
+      "currency": "USD",
+      "image": "assets/images/iphone.png",
+      "category": "iPhone",
+      "specs": {
+        "chip": "A17 Pro",
+        "material": "Titanium",
+        "camera": "48MP Main"
+      }
+    },
+    {
+      "id": 2,
+      "name": "iPhone 15",
+      "tagline": "New camera. New design. Newphoria.",
+      "description": "The iPhone 15 features a stunning new design with color-infused back glass and a contoured aerospace-grade aluminum enclosure.",
+      "price": 799,
+      "currency": "USD",
+      "image": "assets/images/iphone_pink.png",
+      "category": "iPhone",
+      "specs": {
+        "chip": "A16 Bionic",
+        "material": "Aluminum",
+        "camera": "48MP Main"
+      }
+    },
+    {
+      "id": 3,
+      "name": "iPhone 15 Plus",
+      "tagline": "Huge screen. Huge battery life.",
+      "description": "The iPhone 15 Plus offers a huge Super Retina XDR display that brings your content to life with vibrant colors and incredible detail.",
+      "price": 899,
+      "currency": "USD",
+      "image": "assets/images/iphone_yellow.png",
+      "category": "iPhone",
+      "specs": {
+        "chip": "A16 Bionic",
+        "display": "6.7\"",
+        "battery": "All-day"
+      }
+    },
+    {
+      "id": 4,
+      "name": "MacBook Pro 16\"",
+      "tagline": "Mind-blowing. Head-turning.",
+      "description": "The MacBook Pro 16-inch is the most advanced Mac laptop ever, powered by the M3 Max chip for extreme performance.",
+      "price": 2499,
+      "currency": "USD",
+      "image": "assets/images/macbook.png",
+      "category": "Mac",
+      "specs": {
+        "chip": "M3 Max",
+        "display": "Liquid Retina XDR",
+        "battery": "22 hrs"
+      }
+    },
+    {
+      "id": 5,
+      "name": "MacBook Air 15\"",
+      "tagline": "Impressively big.",
+      "description": "The MacBook Air 15-inch is impressively big on screen space yet impressively thin and light. Supercharged by the M2 chip.",
+      "price": 1299,
+      "currency": "USD",
+      "image": "assets/images/macbook_air.png",
+      "category": "Mac",
+      "specs": {
+        "chip": "M2",
+        "weight": "3.3 lbs",
+        "design": "Fanless"
+      }
+    },
+    {
+      "id": 6,
+      "name": "MacBook Air 13\"",
+      "tagline": "Don't take it lightly.",
+      "description": "The MacBook Air 13-inch is the world's best-selling laptop combining portability with the power of the M2 chip.",
+      "price": 1099,
+      "currency": "USD",
+      "image": "assets/images/macbook_starlight.png",
+      "category": "Mac",
+      "specs": {
+        "chip": "M2",
+        "battery": "18 hrs",
+        "display": "13.6\""
+      }
+    },
+    {
+      "id": 7,
+      "name": "iMac",
+      "tagline": "Packed with power.",
+      "description": "The iMac is the all-in-one for all, now supercharged by the M3 chip for even faster performance with a stunning 24-inch 4.5K Retina display.",
+      "price": 1299,
+      "currency": "USD",
+      "image": "assets/images/imac.png",
+      "category": "Mac",
+      "specs": {
+        "chip": "M3",
+        "display": "24\" 4.5K Retina",
+        "colors": "7 vibrant colors"
+      }
+    },
+    {
+      "id": 8,
+      "name": "iPad Pro 12.9\"",
+      "tagline": "Supercharged by M2.",
+      "description": "The iPad Pro 12.9-inch provides the ultimate iPad experience, supercharged by the M2 chip for groundbreaking performance.",
+      "price": 1099,
+      "currency": "USD",
+      "image": "assets/images/ipad.png",
+      "category": "iPad",
+      "specs": {
+        "chip": "M2",
+        "screen": "XDR",
+        "pencil": "Hover support"
+      }
+    },
+    {
+      "id": 9,
+      "name": "iPad Air",
+      "tagline": "Light. Bright. Full of might.",
+      "description": "The iPad Air combines serious performance with a thin and light design. Powered by the breakthrough M1 chip.",
+      "price": 599,
+      "currency": "USD",
+      "image": "assets/images/ipad_air.png",
+      "category": "iPad",
+      "specs": {
+        "chip": "M1",
+        "display": "10.9\"",
+        "connectivity": "5G"
+      }
+    },
+    {
+      "id": 10,
+      "name": "iPad Mini",
+      "tagline": "Mega power. Mini sized.",
+      "description": "The iPad Mini delivers mega power in a mini size, offering the full iPad experience designed to fit in the palm of your hand.",
+      "price": 499,
+      "currency": "USD",
+      "image": "assets/images/ipad_mini.png",
+      "category": "iPad",
+      "specs": {
+        "chip": "A15 Bionic",
+        "display": "8.3\"",
+        "camera": "12MP Wide"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Apple Watch Ultra 2",
+      "tagline": "Next level.",
+      "description": "The Apple Watch Ultra 2 is the most rugged and capable Apple Watch ever, designed for endurance athletes and adventurers.",
+      "price": 799,
+      "currency": "USD",
+      "image": "assets/images/watch.png",
+      "category": "Watch",
+      "specs": {
+        "case": "Titanium",
+        "brightness": "3000 nits",
+        "gps": "Precision dual-frequency"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Apple Watch Series 9",
+      "tagline": "Smarter. Brighter. Mightier.",
+      "description": "The Apple Watch Series 9 is smarter, brighter, and mightier, powered by the custom S9 SiP for a boost in performance.",
+      "price": 399,
+      "currency": "USD",
+      "image": "assets/images/watch_series9.png",
+      "category": "Watch",
+      "specs": {
+        "chip": "S9 SiP",
+        "feature": "Double tap",
+        "carbon": "Neutral option"
+      }
+    },
+    {
+      "id": 13,
+      "name": "AirPods Pro (2nd Gen)",
+      "tagline": "Adaptive Audio.",
+      "description": "The AirPods Pro feature the new H2 chip, delivering smarter noise cancellation and superior sound with Adaptive Audio.",
+      "price": 249,
+      "currency": "USD",
+      "image": "assets/images/airpods.png",
+      "category": "Accessories",
+      "specs": {
+        "chip": "H2",
+        "audio": "Spatial Audio",
+        "case": "USB-C"
+      }
+    },
+    {
+      "id": 14,
+      "name": "AirPods Max",
+      "tagline": "Sound focused.",
+      "description": "AirPods Max reimagine over-ear headphones with an Apple-designed dynamic driver that provides high-fidelity audio.",
+      "price": 549,
+      "currency": "USD",
+      "image": "assets/images/airpods_max.png",
+      "category": "Accessories",
+      "specs": {
+        "driver": "Dynamic",
+        "cancellation": "Active Noise",
+        "materials": "Mesh canopy"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Apple Vision Pro",
+      "tagline": "Welcome to spatial computing.",
+      "description": "Apple Vision Pro is a revolutionary spatial computer that seamlessly blends digital content with your physical world.",
+      "price": 3499,
+      "currency": "USD",
+      "image": "assets/images/vision_pro.png",
+      "category": "Accessories",
+      "specs": {
+        "os": "visionOS",
+        "display": "Micro-OLED",
+        "control": "Eyes, hands, voice"
+      }
+    }
+  ]
+}

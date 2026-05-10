@@ -77,6 +77,8 @@ Proje değerlendirme kriterleri gereği, uygulamaya ait ekran görüntüleri aş
 | **Ürün Detay** | Gelişmiş ürün görseli, teknik özellikler | ![Ürün Detay Ekranı](assets/images/screenshot_detail.png) |
 | **Sepet** | Adet yönetimi, toplam fiyat, sipariş simülasyonu | ![Sepet Ekranı](assets/images/screenshot_cart.png) |
 
+## Projenin sonuncu halinin ekran görüntüleri ss dosyasındadırş
+
 ## Kullanılan Paketler
 
 - `material.dart` (Varsayılan Flutter paketi)
